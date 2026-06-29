@@ -6,3 +6,8 @@ xcuserdata/
 *.xcuserstate
 DerivedData/
 build/
+
+# XcodeGen / build output
+build/
+DerivedData/
+*.xcuserstate
